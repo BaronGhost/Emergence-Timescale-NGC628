@@ -1,0 +1,7 @@
+Total sources: 3299
+class
+oYSC      2309
+eYSCI      608
+eYSCII     382
+Name: count, dtype: int64
+Best fit: τ_TOT = 0.00 * L^-0.76

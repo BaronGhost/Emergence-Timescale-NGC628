@@ -1,0 +1,44 @@
+Initial sources: 13300
+Loading f115w...
+Loading f150w...
+Loading f187n...
+Loading f200w...
+Loading f277w...
+Loading f335m...
+Loading f444w...
+
+Merged catalog: 3593 sources
+
+Computing S/N...
+  f187n: median S/N = 60.4
+  f335m: median S/N = 118.7
+  f444w: median S/N = 158.4
+
+Applying quality cuts...
+After S/N > 3.0: 3459 sources
+After positive flux cut: 3299 sources
+
+Computing excess ratios...
+After removing NaNs: 3299 sources
+
+Classifying...
+Thresholds: Pa=2.153, PAH=1.309
+
+Classification counts:
+class
+oYSC      2309
+eYSCI      608
+eYSCII     382
+Name: count, dtype: int64
+
+==================================================
+COMPARISON: Before vs. After Quality Cuts
+==================================================
+Class      Before     After     
+------------------------------
+eYSCI      665        608       
+eYSCII     408        382       
+oYSC       2504       2309      
+==================================================
+
+Clean catalog saved to 'NGC628_multi_band_catalog_clean.csv'

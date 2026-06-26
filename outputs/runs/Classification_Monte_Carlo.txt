@@ -1,0 +1,35 @@
+Total sources: 3299
+class
+oYSC      2309
+eYSCI      608
+eYSCII     382
+Name: count, dtype: int64
+Iteration 0/1000
+Iteration 100/1000
+Iteration 200/1000
+Iteration 300/1000
+Iteration 400/1000
+Iteration 500/1000
+Iteration 600/1000
+Iteration 700/1000
+Iteration 800/1000
+Iteration 900/1000
+
+==================================================
+MONTE CARLO RESULTS (1000 iterations)
+==================================================
+τ_TOT: 3.02 ± 0.00 Myr
+τ_PDR: 1.85 ± 0.00 Myr
+==================================================
+Bin MC iteration 0/1000
+Bin MC iteration 100/1000
+Bin MC iteration 200/1000
+Bin MC iteration 300/1000
+Bin MC iteration 400/1000
+Bin MC iteration 500/1000
+Bin MC iteration 600/1000
+Bin MC iteration 700/1000
+Bin MC iteration 800/1000
+Bin MC iteration 900/1000
+
+Results saved to 'timescale_mc_results.csv'
