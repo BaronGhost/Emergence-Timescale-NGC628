@@ -118,7 +118,7 @@ The negative exponent quantifies the inverse relation between mass and emergence
 
 Run the Bash
 ```bash
-git clone https://github.com/BaronGhost/Emergence-Timeescale-NGC628.git
+git clone https://github.com/BaronGhost/Emergence-Timescale-NGC628.git
 cd Emergence-Timeescale-NGC628
 
 python3 -m venv venv
