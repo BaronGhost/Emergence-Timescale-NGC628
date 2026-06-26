@@ -9,7 +9,7 @@
 
 ## Abstract
 
-We reproduce the emergence timescale analysis of young star clusters in NGC 628 using archival JWST NIRCam data. Using seven filters (F115W–F444W), we construct a multi-band catalog of 3,300+ sources. Clusters are classified into three evolutionary stages — eYSCI (embedded with PDR), eYSCII (embedded without PDR), and oYSC (optically exposed) — based on Pa$\alpha$ and PAH excess. We derive emergence timescales ($\tau_{\mathrm{TOT}}$ and $\tau_{\mathrm{PDR}}$) as a function of luminosity. Our results confirm the key finding of Pedrini et al. (2026): more luminous (massive) clusters emerge faster, with $\tau_{\mathrm{TOT}}$ decreasing from $\sim$10 Myr to $\sim$0.3 Myr across the luminosity range.
+We reproduce the emergence timescale analysis of young star clusters in NGC 628 using archival JWST NIRCam data. Using seven filters (F115W–F444W), we construct a multi-band catalog of 3,300+ sources. Clusters are classified into three evolutionary stages — eYSCI (embedded with PDR), eYSCII (embedded without PDR), and oYSC (optically exposed) — based on Pa$\alpha$ and PAH excess. We derive emergence timescales ($\tau_{\mathrm{TOT}}$ and $\tau_{\mathrm{PDR}}$) as a function of luminosity. Our results confirm the key finding of Pedrini et al. (2026): more luminous (massive) clusters emerge faster, with $\tau_{\mathrm{TOT}}$ decreasing from 10 Myr to 0.3 Myr across the luminosity range.
 
 ---
 
