@@ -108,7 +108,7 @@ Both $\tau_{\mathrm{TOT}}$ and $\tau_{\mathrm{PDR}}$ decrease with increasing lu
 
 ### Power-Law Fit
 
-$$\tau_{\mathrm{TOT}} \propto L^{-0.6}$$
+$$\tau_{\mathrm{TOT}} \propto L^{-0.76}$$
 
 The negative exponent quantifies the inverse relation between mass and emergence timescale.
 
