@@ -149,10 +149,10 @@ _4. Krumholz, M. R., McKee, C. F., & Bland-Hawthorn, J. 2019, ARA&A, **57**, 227
 
 ## Acknowledgements
 
-This work reproduces results from _Pedrini et al. (2026)_ using data from the JWST FEAST programme _(PI: A. Adamo)_. Data were obtained from the _MAST archive_.
+This work reproduces results from _Pedrini et al. (2026)_ using data from the JWST FEAST programme _(PI: A. Adamo)_. Data were obtained from the _MAST archive_.  MAST Archive: https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html?searchQuery=%7B%22service%22:%22DOIOBS%22,%22inputText%22:%2210.17909/f4vm-c771%22%7D
 
 ## Author
 
 SHAFKAT MAHBUB  
 Studying at Dept of ETE in CUET  
-_u2308029@student.cuet.ac.bd_
+u2308029@student.cuet.ac.bd
