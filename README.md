@@ -118,7 +118,7 @@ The negative exponent quantifies the inverse relation between mass and emergence
 
 Pa(F187N) and PAH(F335M) Flux Distribution
 
-![Timescale_Plot](outputs/plots/flux_histogram.png)
+![Timescale Plot](outputs/plots/flux_histograms.png)
 
 ---
 
