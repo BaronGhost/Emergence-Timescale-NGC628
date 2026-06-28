@@ -112,6 +112,14 @@ $$\tau_{\mathrm{TOT}} \propto L^{-0.76}$$
 
 The negative exponent quantifies the inverse relation between mass and emergence timescale.
 
+![Timescale Plot](outputs/plots/timescale_fit.png)
+
+### Flux Histogram
+
+Pa(F187N) and PAH(F335M) Flux Distribution
+
+![Flux_Histogram](outputs/plots/flux_histogram.png)
+
 ---
 
 ## Installation
